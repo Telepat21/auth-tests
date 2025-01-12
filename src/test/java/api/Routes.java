@@ -2,7 +2,7 @@ package api;
 
 public class Routes {
 
-    public static final String BASE_URL = "http://localhost:8083/api/v1";
+    public static final String BASE_URL = "http://127.0.0.1:8083/api/v1";
 
     //Auth Controller
     public static final String LOGIN_URL = BASE_URL + "/auth/login";
